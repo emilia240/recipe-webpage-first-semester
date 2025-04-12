@@ -107,7 +107,7 @@ body {
 }
 
 .hero {
-    background-image: url('./img/top-view-delicious-food-table\ 2.png');
+    background-image: url('/img/top-view-delicious-food-table\ 2.png');
     width: var(--width-full);
     height: auto;
     min-height: 600px;
@@ -408,7 +408,7 @@ p[data-category="meats"], h4[data-category="meats"], i[data-category="meats"] {
 
 
 .content_image {
-    background-image: url('./img/female-chef-preparing-dish\ 1.png');
+    background-image: url('/img/female-chef-preparing-dish\ 1.png');
     width: var(--width-full);
     height: auto;
     min-height: 600px;
@@ -507,21 +507,21 @@ p[data-category="meats"], h4[data-category="meats"], i[data-category="meats"] {
 }
 
 #img-recipe_1{
-    background-image: url(./img/chef-squeezing-sauce-salad\ 1.png);
+    background-image: url(/img/chef-squeezing-sauce-salad\ 1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 #img-recipe_2{
-    background-image: url(./img/flat-lay-food-ingredients-with-herbs-notebook\ 1.png);
+    background-image: url(/img/flat-lay-food-ingredients-with-herbs-notebook\ 1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
 }
 
 #img-recipe_3{
-    background-image: url(./img/close-up-person-cooking\ 1.png);
+    background-image: url(/img/close-up-person-cooking\ 1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
